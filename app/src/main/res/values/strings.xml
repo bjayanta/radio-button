@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Radio Button</string>
+
+    <string name="title">All Colors</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+</resources>
